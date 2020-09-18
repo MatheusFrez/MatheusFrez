@@ -6,8 +6,6 @@
 ### About me
 I'm a {backend, frontend and mobile} developer.
 
-//- [Website] 💻 - Working on it.
-
 - 🔭 I’m currently working on Datahex Tecnologia.
 - 🌱 I’m currently learning jest framework and vue 3 🤓 and some anothers web frameworks.
 - 📩 How to contact me: matheusfrez.nf@gmail.com
