@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Matheus! :D
 
-<!--
-**MatheusFrez/MatheusFrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusFrez)](https://github.com/MatheusFrez)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/matheus-frez-62b3a0119)](https://br.linkedin.com/in/matheus-frez-62b3a0119)
 
-Here are some ideas to get you started:
+### About me
+I'm a {backend, frontend and mobile} developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Website] 💻 - Working on it.
+
+- 🔭 I’m currently working on Datahex Tecnologia.
+- 🌱 I’m currently learning jest framework and vue 3 🤓 and some anothers web frameworks.
+- 📩 How to contact me: matheusfrez.nf@gmail.com
