@@ -26,9 +26,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-[![MatheusFrez](https://github-readme-stats.vercel.app/api?username=MatheusFrez&theme=default)](https://github.com/MatheusFrez/)
 
-[![MatheusFrez](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFrez&hide=html&layout=compact&theme=default)](https://github.com/MatheusFrez/)
 
 ![](https://komarev.com/ghpvc/?username=MatheusFrez&color=blue&style=flat)
 
