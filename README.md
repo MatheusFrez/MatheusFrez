@@ -1,6 +1,6 @@
 <!-- De olho no meu código né danado? hahahah! -->
 
-## Olá, meu nome é <strong>Matheus Frez!</strong>
+## Olá, meu nome é <strong>Matheus Frez!</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > Atualmente atuo como desenvolvedor fullstack além de estar cursando Bacharelado de sistemas de informação no CEFET-NF.
 
