@@ -29,7 +29,7 @@
 ![](https://komarev.com/ghpvc/?username=MatheusFrez&color=blue&style=flat)
 
 <p align="left">
-  💌 Você trocar uma idéia comigo através desses contatos: ⤵️
+  💌 Que ta trocar uma idéia comigo através desses contatos? ⤵️
 </p>
 
 <p align="left">
