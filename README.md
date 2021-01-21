@@ -16,11 +16,11 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic"/></code>
+<code><img height="32" src="https://ionicframework.com/img/meta/logo.png" alt="Ionic"/></code>
 <code><img height="32" src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="VueJs"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/></code>
+<code><img height="32" src="https://https://res.cloudinary.com/practicaldev/image/fetch/s--UPIEfot6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ovqzl94szusdjkbddlhw.png" alt="Tailwind"/></code>
 <code><img height="32" src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="Sass"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/></code>
+<code><img height="32" src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" alt="Firebase"/></code>
 <code><img height="32" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git"/></code>
 ---
 
