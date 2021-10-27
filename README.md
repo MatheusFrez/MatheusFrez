@@ -34,6 +34,7 @@
 
 ##
 ![Snake animation](https://github.com/MatheusFrez/MatheusFrez/blob/output/github-contribution-grid-snake.svg)
+##
 
 <p align="left">
   💌 Que tal trocar uma idéia comigo através desses contatos? ⤵️
