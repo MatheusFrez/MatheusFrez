@@ -32,8 +32,11 @@
 
 ![](https://komarev.com/ghpvc/?username=MatheusFrez&color=blue&style=flat)
 
+##
+![Snake animation](https://github.com/MatheusFrez/MatheusFrez/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left">
-  💌 Que ta trocar uma idéia comigo através desses contatos? ⤵️
+  💌 Que tal trocar uma idéia comigo através desses contatos? ⤵️
 </p>
 
 <p align="left">
@@ -53,6 +56,4 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/matheus_frez"/></a>
 </p> 
 
-##
-  
-  ![Snake animation](https://github.com/MatheusFrez/MatheusFrez/blob/output/github-contribution-grid-snake.svg)
+
