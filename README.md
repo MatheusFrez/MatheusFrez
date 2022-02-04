@@ -20,7 +20,7 @@
 <code><img height="32" src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="VueJs"/></code>
 <code><img height="32" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="Tailwind"/></code>
 <code><img height="32" src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="Sass"/></code>
-<code><img height="32" src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/firebase/images/touchicon-180.png" alt="Firebase"/></code>
+<code><img height="32" src="https://w7.pngwing.com/pngs/359/1024/png-transparent-firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-angle-triangle-computer-programming.png" alt="Firebase"/></code>
 <code><img height="32" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git"/></code>
 ---
 
