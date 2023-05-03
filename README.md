@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/matheus-frez-62b3a0119" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-frez-62b3a0119" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5522998537291&text=Vamos%20trocar%20uma%20id%C3%A9ia" alt="WhatsApp" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5522997670682&text=Vamos%20trocar%20uma%20id%C3%A9ia" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522998537291&text=Vamos%20trocar%20uma%20id%C3%A9ia"/></a>
 
   <a href="https://www.facebook.com/matheus.frez" alt="Facebook" target="_blank">
